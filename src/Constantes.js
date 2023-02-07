@@ -26,6 +26,6 @@ También tengo canal de YouTube: https://www.youtube.com/channel/UCroP4BTWjfM0Ck
 ------------------------------------------------------------------------------------------------
 */
 const Constantes = {
-    RUTA_API: "http://localhost/api-php-react",
+    RUTA_API: "https://spaceitfip.space/api-php-react",
 };
 export default Constantes;
